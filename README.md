@@ -1,0 +1,1 @@
+# rifqy-resolution-for-2025
