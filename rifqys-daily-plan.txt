@@ -1,0 +1,7 @@
+RIFQYS DAILY PLAN
+
+- Learn GIT & GITHUB
+- Learn Flutter
+  * Firebase
+  * Sliver
+- Speak english
