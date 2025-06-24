@@ -4,5 +4,5 @@ RIFQYS DAILY PLAN
 - Learn Flutter
   * Firebase
   * Sliver
+   ^ Sliver Text
   * Solid understanding of OOP SOLID Concept 
-- Speak english
