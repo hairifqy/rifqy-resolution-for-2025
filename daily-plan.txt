@@ -2,7 +2,10 @@ RIFQYS DAILY PLAN
 
 - Learn GIT & GITHUB
 - Learn Flutter
+   ^ Learn by Practicing
   * Firebase
   * Sliver
+   ^ Sliver AppBar
   * Solid understanding of OOP SOLID Concept 
 - Speak english
+- Learn Kotlin
