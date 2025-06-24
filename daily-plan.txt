@@ -4,6 +4,7 @@ RIFQYS DAILY PLAN
 - Learn Flutter
    ^ Learn by Practicing
   * Firebase
+   ^ Firestore
   * Sliver
    ^ Sliver AppBar
   * Solid understanding of OOP SOLID Concept 
